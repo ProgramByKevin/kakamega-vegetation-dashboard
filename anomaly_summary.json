@@ -1,0 +1,16 @@
+{
+  "n_rows": 1440,
+  "n_wards": 60,
+  "n_months": 24,
+  "thresholds": {
+    "high_stress_pctl": 15,
+    "watch_pctl": 33,
+    "hs_value": -3.55,
+    "w_value": -1.84
+  },
+  "class_counts": {
+    "Normal": 966,
+    "Watch": 259,
+    "High Stress": 215
+  }
+}
